@@ -8,3 +8,4 @@ Git basics
 4. git commit -m "message"
 5. git push
 6. git pull
+7. git branch
