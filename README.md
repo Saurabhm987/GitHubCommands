@@ -9,3 +9,4 @@ Git basics
 5. git push
 6. git pull
 7. git branch
+8. git diff
